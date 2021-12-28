@@ -1,7 +1,7 @@
 {
   "name": "tomo-explorer",
   "version": "1.0.0",
-  "description": "TomoChain Block Explorer",
+  "description": "TomoChain Explorer",
   "scripts": {
     "lint": "eslint --cache ./ --ext .vue --ext .js --env mocha",
     "lint-fix": "eslint --cache ./ --ext .vue --ext .js --env mocha --fix",
